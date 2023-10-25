@@ -156,4 +156,4 @@ Contributions are welcomed! Please open an issue or send in a pull request to en
 
 ## License
 
-This library falls under the MIT License. Refer to the `LICENSE.md` file for comprehensive details.
+This library falls under the MIT License. 

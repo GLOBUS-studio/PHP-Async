@@ -43,6 +43,7 @@ class AsyncManager
     }    
 }
 
+
 /**
  * Represents an asynchronous task.
  * 
