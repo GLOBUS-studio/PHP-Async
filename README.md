@@ -1,6 +1,6 @@
 # PHP-Async
 
-[![CI](https://github.com/globus-studio/PHP-Async/actions/workflows/ci.yml/badge.svg)](https://github.com/globus-studio/PHP-Async/actions/workflows/ci.yml)
+[![CI](https://github.com/GLOBUS-studio/PHP-Async/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GLOBUS-studio/PHP-Async/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.1-8892BF.svg)](https://www.php.net/)
 
